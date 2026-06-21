@@ -5,3 +5,8 @@ repos:
     url: https://github.com/jeevraj1610/DevML.git
   - dest: DevAI
     url: https://github.com/jeevraj1610/DevAI.git
+  - dest: WikiGuide
+    url: https://github.com/jeevraj1610/studyGuide.git
+  - dest: PriceCheck
+    url: https://github.com/jeevraj1610/PriceCheck.git
+
