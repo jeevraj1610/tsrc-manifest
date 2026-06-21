@@ -1,0 +1,7 @@
+repos:
+  - dest: DevPython
+    url: https://github.com/jeevraj1610/DevPython.git
+  - dest: DevML
+    url: https://github.com/jeevraj1610/DevML.git
+  - dest: DevAI
+    url: https://github.com/jeevraj1610/DevAI.git
