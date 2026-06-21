@@ -1,12 +1,17 @@
 repos:
   - dest: DevPython
     url: https://github.com/jeevraj1610/DevPython.git
+    branch: main
   - dest: DevML
     url: https://github.com/jeevraj1610/DevML.git
+    branch: main
   - dest: DevAI
     url: https://github.com/jeevraj1610/DevAI.git
+    branch: main
   - dest: WikiGuide
     url: https://github.com/jeevraj1610/studyGuide.git
+    branch: main
   - dest: PriceCheck
     url: https://github.com/jeevraj1610/PriceCheck.git
+    branch: main
 
